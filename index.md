@@ -4,4 +4,4 @@ Feel free to use the funcionalities that CSS/HTML/JavaScript/JSON I've learnt
 
 ## I. About Me
 _____
-[Encuéntralo en este archivo](docs/CONTRIBUTING.md)
+[Encuéntralo en este archivo](/blob/main/about-me.md)
